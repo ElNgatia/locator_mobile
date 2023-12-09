@@ -23,7 +23,7 @@ dependencies:
   intl: ^0.18.0
   json_annotation: ^4.8.1
   latlng: ^1.0.0
-  meta: ^1.9.1
+  meta: ^1.10.0
   
 
 dev_dependencies:
